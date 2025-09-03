@@ -45,3 +45,6 @@ body
 
 
 
+.one::before{
+    width:500px;
+}
